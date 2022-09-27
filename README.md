@@ -1,1 +1,3 @@
-# 이건영 소개
+### Hi there :wave:
+
+> I'm KeonYoung Lee!
