@@ -20,5 +20,5 @@
 - Video Editing  
   <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ea9ec8cb59542a484bbb" width="80px">
 
-- Swimming
+- Swimming  
   <img src="https://user-images.githubusercontent.com/113087699/193603477-4c7c2182-8121-46b3-ad85-309e9e9915f4.png" width="80px">
