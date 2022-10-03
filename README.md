@@ -10,6 +10,7 @@
 <td>SQL</td>
 <td>Rstudio</td>
 <td>RPA</td>
+<td>HTML5</td>
 </tr>
 </table>
 
